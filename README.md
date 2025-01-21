@@ -10,7 +10,7 @@ This project is a Python script designed to monitor accommodations on SSSB (Stoc
 A Gmail account with Two-Factor Authentication enabled and an App Password generated to send emails.
 
 # SSSB房源监控
-一个简单的房源监控程序，能够自动根据条件筛选抓取SSSB的房源数据后通过邮件通知用户
+一个简单的Python房源监控脚本，能够自动根据条件筛选抓取SSSB的房源数据后通过邮件通知用户
 
 ## 功能：
 - 自动抓取房源数据
